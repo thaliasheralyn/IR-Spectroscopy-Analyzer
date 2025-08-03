@@ -14,6 +14,7 @@ Manual interpretation of IR spectra is prone to bias:
 - Enhances clarity: A logarithmic transformation magnifies differences in low transmittance values, making subtle features more visible and easier to analyze.
 
 C. Objective
+
 This project aims to automate and enhance the analysis of IR spectroscopy data by:
 1. Processing raw transmittance data into absorbance for clearer visualization.
 2. Reducing manual effort and bias in peak selection.
