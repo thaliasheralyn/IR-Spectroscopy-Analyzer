@@ -4,6 +4,7 @@ A. Overview
 Infrared (IR) Spectroscopy is a powerful analytical chemistry method used to predict chemical structures by examining how molecules absorb infrared electromagnetic waves. It’s commonly used to confirm the existence of functional groups during chemical synthesis. Different functional groups and bonds absorb IR waves at specific wavelengths, producing a unique spectrum for each compound.
 
 B. Motivation
+
 Manual interpretation of IR spectra is prone to bias:
 1. Picking peaks manually can introduce errors.
 2. Overlapping peaks may be hard to distinguish.
