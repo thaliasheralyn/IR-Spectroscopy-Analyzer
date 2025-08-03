@@ -10,7 +10,10 @@ Manual interpretation of IR spectra is prone to bias:
 1. Picking peaks manually can introduce errors.
 2. Overlapping peaks may be hard to distinguish.
 3. Constantly referring to tables is time-consuming.
-4. Additionally, IR spectroscopy data is typically presented as transmittance, which can introduce significant biases. To improve clarity and accuracy, the raw data is transformed using the following approach:
+   
+Additionally, IR spectroscopy data is typically presented as transmittance, which can introduce significant biases. 
+
+To improve clarity and accuracy, the raw data is transformed using the following approach:
 - Transforms the relationship: Converts transmittance (which decreases in a valley-like shape) into absorbance.
 - Enhances clarity: A logarithmic transformation magnifies differences in low transmittance values, making subtle features more visible and easier to analyze.
 
