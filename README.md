@@ -19,4 +19,4 @@ C. Objective
 This project aims to automate and enhance the analysis of IR spectroscopy data by:
 1. Processing raw transmittance data into absorbance for clearer visualization.
 2. Reducing manual effort and bias in peak selection.
-3. Making spectrum analysis faster and more reliable for chemists.
+3. Making spectrum analysis faster and more reliable for researchers.
